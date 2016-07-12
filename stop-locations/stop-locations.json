@@ -1,1352 +1,1352 @@
 [
- {
-  "Name": "Foundry - Cornell",
-  "Latitude": 42.45059589947008,
-  "Longitude": -76.48376519749942
- },
- {
-  "Name": "A Lot",
-  "Latitude": 42.45815,
-  "Longitude": -76.475667
- },
- {
-  "Name": "Alpha Epsilon Pi",
-  "Latitude": 42.453809,
-  "Longitude": -76.487995
- },
- {
-  "Name": "Anabel Taylor Hall",
-  "Latitude": 42.44481866675762,
-  "Longitude": -76.4851364584642
- },
- {
-  "Name": "Appel Commons @ Cradit Farm",
-  "Latitude": 42.453323,
-  "Longitude": -76.476125
- },
- {
-  "Name": "B Lot@Vet Mewdical Center",
-  "Latitude": 42.44597697891736,
-  "Longitude": -76.4647502192776
- },
- {
-  "Name": "Baker Flagpole",
-  "Latitude": 42.44782,
-  "Longitude": -76.487736
- },
- {
-  "Name": "Baker Flagpole/Slopeside",
-  "Latitude": 42.447817,
-  "Longitude": -76.487483
- },
- {
-  "Name": "Balch Hall @ Cradit Farm",
-  "Latitude": 42.45256167270838,
-  "Longitude": -76.47956134351331
- },
- {
-  "Name": "Balch Hall @ Thurston",
-  "Latitude": 42.452977,
-  "Longitude": -76.480991
- },
- {
-  "Name": "Boldt Hall",
-  "Latitude": 42.449263,
-  "Longitude": -76.48925
- },
- {
-  "Name": "Boyce-Thompson Institute",
-  "Latitude": 42.447451,
-  "Longitude": -76.467465
- },
- {
-  "Name": "Bradfield Hall",
-  "Latitude": 42.447717,
-  "Longitude": -76.476583
- },
- {
-  "Name": "Bradfield Parking Lot",
-  "Latitude": 42.447436,
-  "Longitude": -76.476558
- },
- {
-  "Name": "Carpenter Hall",
-  "Latitude": 42.44505,
-  "Longitude": -76.48495
- },
- {
-  "Name": "Ciser Across Street",
-  "Latitude": 42.438508,
-  "Longitude": -76.465254
- },
- {
-  "Name": "Ciser Shelter",
-  "Latitude": 42.438653,
-  "Longitude": -76.465359
- },
- {
-  "Name": "College @ Dryden",
-  "Latitude": 42.441883,
-  "Longitude": -76.485317
- },
- {
-  "Name": "College @ Mitchell",
-  "Latitude": 42.437995,
-  "Longitude": -76.485069
- },
- {
-  "Name": "Corson/Mudd Hall",
-  "Latitude": 42.447443,
-  "Longitude": -76.47929
- },
- {
-  "Name": "Dairy Bar",
-  "Latitude": 42.447431,
-  "Longitude": -76.471433
- },
- {
-  "Name": "Dairy Bar Across Street",
-  "Latitude": 42.447685,
-  "Longitude": -76.471409
- },
- {
-  "Name": "Dryden Rd. @ Humphreys Crosswalk",
-  "Latitude": 42.442283,
-  "Longitude": -76.476699
- },
- {
-  "Name": "East Hill Office Building",
-  "Latitude": 42.43898621190429,
-  "Longitude": -76.46293785962538
- },
- {
-  "Name": "East Hill Office Building Across Street",
-  "Latitude": 42.43856033946333,
-  "Longitude": -76.46340610017926
- },
- {
-  "Name": "East Hill Plaza",
-  "Latitude": 42.437635,
-  "Longitude": -76.462642
- },
- {
-  "Name": "P&C Fresh - see East Hill Plaza for times",
-  "Latitude": 42.43719968401433,
-  "Longitude": -76.46359155465098
- },
- {
-  "Name": "Fairview Apts. @ Maple Ave (inbound)",
-  "Latitude": 42.441349,
-  "Longitude": -76.475092
- },
- {
-  "Name": "Fairview Apts. @ Maple Ave (outbound)",
-  "Latitude": 42.441151,
-  "Longitude": -76.475304
- },
- {
-  "Name": "Goldwin Smith",
-  "Latitude": 42.44810853085883,
-  "Longitude": -76.4826729138908
- },
- {
-  "Name": "Gun Hill Apartments",
-  "Latitude": 42.45098199079435,
-  "Longitude": -76.49345269668729
- },
- {
-  "Name": "Hasbrouck - Pleasant Grove Rd. @ Jessup",
-  "Latitude": 42.456764,
-  "Longitude": -76.474057
- },
- {
-  "Name": "Hasbrouck Apts.",
-  "Latitude": 42.456367,
-  "Longitude": -76.471617
- },
- {
-  "Name": "Helen Newman - North Campus",
-  "Latitude": 42.45320732859564,
-  "Longitude": -76.47692270789457
- },
- {
-  "Name": "Highland @ Thurston",
-  "Latitude": 42.45385,
-  "Longitude": -76.4865
- },
- {
-  "Name": "Highland @ Wyckoff",
-  "Latitude": 42.456422,
-  "Longitude": -76.486225
- },
- {
-  "Name": "Ithaca Rd @ Elmwood Ave.",
-  "Latitude": 42.4395102367634,
-  "Longitude": -76.47853447447534
- },
- {
-  "Name": "Jessup @ Pleasant Grove",
-  "Latitude": 42.456783,
-  "Longitude": -76.474467
- },
- {
-  "Name": "Jessup @ Pleasant Grove",
-  "Latitude": 42.45675274557034,
-  "Longitude": -76.47443552167225
- },
- {
-  "Name": "Jessup Place @ Tennis Courts",
-  "Latitude": 42.456982,
-  "Longitude": -76.47844
- },
- {
-  "Name": "Kennedy Hall",
-  "Latitude": 42.447668,
-  "Longitude": -76.479291
- },
- {
-  "Name": "East Ithaca Apts. @ Maple (inbound)",
-  "Latitude": 42.441404,
-  "Longitude": -76.471801
- },
- {
-  "Name": "East Ithaca Apts. @ Maple (outbound)",
-  "Latitude": 42.441266,
-  "Longitude": -76.472054
- },
- {
-  "Name": "Maplewood Park @ Maple Ave. (inbound)",
-  "Latitude": 42.441341,
-  "Longitude": -76.47502
- },
- {
-  "Name": "Maplewood Park @ Maple Ave. (outbound)",
-  "Latitude": 42.441127,
-  "Longitude": -76.475315
- },
- {
-  "Name": "Milstein Hall",
-  "Latitude": 42.45059589947008,
-  "Longitude": -76.48376519749942
- },
- {
-  "Name": "Pine Tree Rd.@ East Hill Plaza",
-  "Latitude": 42.437627,
-  "Longitude": -76.465061
- },
- {
-  "Name": "Pine Tree Rd.@ Rite Aid",
-  "Latitude": 42.437568,
-  "Longitude": -76.465259
- },
- {
-  "Name": "Pleasant Grove @ Jessup",
-  "Latitude": 42.456974,
-  "Longitude": -76.474309
- },
- {
-  "Name": "Ridgewood @ Thurston",
-  "Latitude": 42.454235,
-  "Longitude": -76.488748
- },
- {
-  "Name": "Ridgewood @ Wyckoff",
-  "Latitude": 42.456632,
-  "Longitude": -76.487299
- },
- {
-  "Name": "Risley Hall",
-  "Latitude": 42.45284374064116,
-  "Longitude": -76.48114231127587
- },
- {
-  "Name": "Robert Purcell Community Center",
-  "Latitude": 42.456133,
-  "Longitude": -76.4783
- },
- {
-  "Name": "Robert Purcell Community Center @ Jessup",
-  "Latitude": 42.456638,
-  "Longitude": -76.477067
- },
- {
-  "Name": "Rockefeller Hall",
-  "Latitude": 42.4493141022356,
-  "Longitude": -76.48228694397022
- },
- {
-  "Name": "Sage Hall",
-  "Latitude": 42.445483,
-  "Longitude": -76.482633
- },
- {
-  "Name": "Schwartz Performing Arts",
-  "Latitude": 42.442333,
-  "Longitude": -76.485483
- },
- {
-  "Name": "Sigma Delta Tau",
-  "Latitude": 42.456136,
-  "Longitude": -76.488797
- },
- {
-  "Name": "Statler Hall",
-  "Latitude": 42.445983,
-  "Longitude": -76.482567
- },
- {
-  "Name": "Stewart @ Seneca St. (Inbound)",
-  "Latitude": 42.440672,
-  "Longitude": -76.489799
- },
- {
-  "Name": "Stewart @ University Ave.",
-  "Latitude": 42.448963,
-  "Longitude": -76.490156
- },
- {
-  "Name": "Stewart @ Williams",
-  "Latitude": 42.44268690724183,
-  "Longitude": -76.48985272977983
- },
- {
-  "Name": "Stewart @ Williams North",
-  "Latitude": 42.44268690724183,
-  "Longitude": -76.48985272977983
- },
- {
-  "Name": "Teagle Hall",
-  "Latitude": 42.445817,
-  "Longitude": -76.479683
- },
- {
-  "Name": "Thurston @ Fall Creek Dr.",
-  "Latitude": 42.453566,
-  "Longitude": -76.483751
- },
- {
-  "Name": "Thurston @ Highland",
-  "Latitude": 42.453735,
-  "Longitude": -76.486473
- },
- {
-  "Name": "Thurston @ Stewart",
-  "Latitude": 42.454667,
-  "Longitude": -76.490547
- },
- {
-  "Name": "Thurston @ Wyckoff",
-  "Latitude": 42.453647,
-  "Longitude": -76.483684
- },
- {
-  "Name": "Thurston Ave. @ Ridgewood Rd.",
-  "Latitude": 42.454267,
-  "Longitude": -76.488867
- },
- {
-  "Name": "Tobin Field House",
-  "Latitude": 42.45645,
-  "Longitude": -76.481023
- },
- {
-  "Name": "Jessup Rd. @ Jessup Place",
-  "Latitude": 42.45687860636266,
-  "Longitude": -76.47731160022425
- },
- {
-  "Name": "Triphammer @ Dearborn",
-  "Latitude": 42.45638,
-  "Longitude": -76.481409
- },
- {
-  "Name": "Triphammer @ Jessup",
-  "Latitude": 42.456149,
-  "Longitude": -76.481098
- },
- {
-  "Name": "University @ Cornell Ave.",
-  "Latitude": 42.447253,
-  "Longitude": -76.493056
- },
- {
-  "Name": "University @ Lake",
-  "Latitude": 42.449406,
-  "Longitude": -76.492236
- },
- {
-  "Name": "University @ Stewart",
-  "Latitude": 42.449295,
-  "Longitude": -76.490566
- },
- {
-  "Name": "Uris Hall",
-  "Latitude": 42.4474088066602,
-  "Longitude": -76.48182579458917
- },
- {
-  "Name": "Uris Hall Across Street",
-  "Latitude": 42.4474088066602,
-  "Longitude": -76.48182579458917
- },
- {
-  "Name": "Vet Medical Center",
-  "Latitude": 42.446463,
-  "Longitude": -76.464828
- },
- {
-  "Name": "Vet School",
-  "Latitude": 42.447361,
-  "Longitude": -76.466653
- },
- {
-  "Name": "Wyckoff @ Highland",
-  "Latitude": 42.456149,
-  "Longitude": -76.486151
- },
- {
-  "Name": "Stewart @ Seneca (Outbound)",
-  "Latitude": 42.44137571067242,
-  "Longitude": -76.48998334850198
- },
- {
-  "Name": "Highland @ Country Club Rd./Lakeland",
-  "Latitude": 42.45847564502122,
-  "Longitude": -76.48632544692056
- },
- {
-  "Name": "Highland @ Country Club Rd./Acacia",
-  "Latitude": 42.45846811319768,
-  "Longitude": -76.48637952395289
- },
- {
-  "Name": "Thurston @ Wait",
-  "Latitude": 42.4536723703661,
-  "Longitude": -76.48541459456794
- },
- {
-  "Name": "Wait @ Triphammer",
-  "Latitude": 42.45466219443673,
-  "Longitude": -76.48220234330067
- },
- {
-  "Name": "Triphammer @ Wait",
-  "Latitude": 42.45473532536624,
-  "Longitude": -76.48124295763095
- },
- {
-  "Name": "Wait @ Thurston",
-  "Latitude": 42.45408063474326,
-  "Longitude": -76.48433673590142
- },
- {
-  "Name": "Tobin Field House - Across the Street",
-  "Latitude": 42.45636250157106,
-  "Longitude": -76.48066083795052
- },
- {
-  "Name": "Cradit Farm @ Pleasant Grove",
-  "Latitude": 42.45518135114667,
-  "Longitude": -76.47378189473743
- },
- {
-  "Name": "Foundry - Cornell",
-  "Latitude": 42.45059589947008,
-  "Longitude": -76.48376519749942
- },
- {
-  "Name": "A Lot",
-  "Latitude": 42.45815,
-  "Longitude": -76.475667
- },
- {
-  "Name": "Alpha Epsilon Pi",
-  "Latitude": 42.453809,
-  "Longitude": -76.487995
- },
- {
-  "Name": "Anabel Taylor Hall",
-  "Latitude": 42.44481866675762,
-  "Longitude": -76.4851364584642
- },
- {
-  "Name": "Appel Commons @ Cradit Farm",
-  "Latitude": 42.453323,
-  "Longitude": -76.476125
- },
- {
-  "Name": "B Lot@Vet Mewdical Center",
-  "Latitude": 42.44597697891736,
-  "Longitude": -76.4647502192776
- },
- {
-  "Name": "Baker Flagpole",
-  "Latitude": 42.44782,
-  "Longitude": -76.487736
- },
- {
-  "Name": "Baker Flagpole/Slopeside",
-  "Latitude": 42.447817,
-  "Longitude": -76.487483
- },
- {
-  "Name": "Balch Hall @ Cradit Farm",
-  "Latitude": 42.45256167270838,
-  "Longitude": -76.47956134351331
- },
- {
-  "Name": "Balch Hall @ Thurston",
-  "Latitude": 42.452977,
-  "Longitude": -76.480991
- },
- {
-  "Name": "Boldt Hall",
-  "Latitude": 42.449263,
-  "Longitude": -76.48925
- },
- {
-  "Name": "Boyce-Thompson Institute",
-  "Latitude": 42.447451,
-  "Longitude": -76.467465
- },
- {
-  "Name": "Bradfield Hall",
-  "Latitude": 42.447717,
-  "Longitude": -76.476583
- },
- {
-  "Name": "Bradfield Parking Lot",
-  "Latitude": 42.447436,
-  "Longitude": -76.476558
- },
- {
-  "Name": "Carpenter Hall",
-  "Latitude": 42.44505,
-  "Longitude": -76.48495
- },
- {
-  "Name": "Ciser Across Street",
-  "Latitude": 42.438508,
-  "Longitude": -76.465254
- },
- {
-  "Name": "Ciser Shelter",
-  "Latitude": 42.438653,
-  "Longitude": -76.465359
- },
- {
-  "Name": "College @ Dryden",
-  "Latitude": 42.441883,
-  "Longitude": -76.485317
- },
- {
-  "Name": "College @ Mitchell",
-  "Latitude": 42.437995,
-  "Longitude": -76.485069
- },
- {
-  "Name": "Corson/Mudd Hall",
-  "Latitude": 42.447443,
-  "Longitude": -76.47929
- },
- {
-  "Name": "Dairy Bar",
-  "Latitude": 42.447431,
-  "Longitude": -76.471433
- },
- {
-  "Name": "Dairy Bar Across Street",
-  "Latitude": 42.447685,
-  "Longitude": -76.471409
- },
- {
-  "Name": "Dryden Rd. @ Humphreys Crosswalk",
-  "Latitude": 42.442283,
-  "Longitude": -76.476699
- },
- {
-  "Name": "East Hill Office Building",
-  "Latitude": 42.43898621190429,
-  "Longitude": -76.46293785962538
- },
- {
-  "Name": "East Hill Office Building Across Street",
-  "Latitude": 42.43856033946333,
-  "Longitude": -76.46340610017926
- },
- {
-  "Name": "East Hill Plaza",
-  "Latitude": 42.437635,
-  "Longitude": -76.462642
- },
- {
-  "Name": "P&C Fresh - see East Hill Plaza for times",
-  "Latitude": 42.43719968401433,
-  "Longitude": -76.46359155465098
- },
- {
-  "Name": "Fairview Apts. @ Maple Ave (inbound)",
-  "Latitude": 42.441349,
-  "Longitude": -76.475092
- },
- {
-  "Name": "Fairview Apts. @ Maple Ave (outbound)",
-  "Latitude": 42.441151,
-  "Longitude": -76.475304
- },
- {
-  "Name": "Goldwin Smith",
-  "Latitude": 42.44810853085883,
-  "Longitude": -76.4826729138908
- },
- {
-  "Name": "Gun Hill Apartments",
-  "Latitude": 42.45098199079435,
-  "Longitude": -76.49345269668729
- },
- {
-  "Name": "Hasbrouck - Pleasant Grove Rd. @ Jessup",
-  "Latitude": 42.456764,
-  "Longitude": -76.474057
- },
- {
-  "Name": "Hasbrouck Apts.",
-  "Latitude": 42.456367,
-  "Longitude": -76.471617
- },
- {
-  "Name": "Helen Newman - North Campus",
-  "Latitude": 42.45320732859564,
-  "Longitude": -76.47692270789457
- },
- {
-  "Name": "Highland @ Thurston",
-  "Latitude": 42.45385,
-  "Longitude": -76.4865
- },
- {
-  "Name": "Highland @ Wyckoff",
-  "Latitude": 42.456422,
-  "Longitude": -76.486225
- },
- {
-  "Name": "Ithaca Rd @ Elmwood Ave.",
-  "Latitude": 42.4395102367634,
-  "Longitude": -76.47853447447534
- },
- {
-  "Name": "Jessup @ Pleasant Grove",
-  "Latitude": 42.456783,
-  "Longitude": -76.474467
- },
- {
-  "Name": "Jessup @ Pleasant Grove",
-  "Latitude": 42.45675274557034,
-  "Longitude": -76.47443552167225
- },
- {
-  "Name": "Jessup Place @ Tennis Courts",
-  "Latitude": 42.456982,
-  "Longitude": -76.47844
- },
- {
-  "Name": "Kennedy Hall",
-  "Latitude": 42.447668,
-  "Longitude": -76.479291
- },
- {
-  "Name": "East Ithaca Apts. @ Maple (inbound)",
-  "Latitude": 42.441404,
-  "Longitude": -76.471801
- },
- {
-  "Name": "East Ithaca Apts. @ Maple (outbound)",
-  "Latitude": 42.441266,
-  "Longitude": -76.472054
- },
- {
-  "Name": "Maplewood Park @ Maple Ave. (inbound)",
-  "Latitude": 42.441341,
-  "Longitude": -76.47502
- },
- {
-  "Name": "Maplewood Park @ Maple Ave. (outbound)",
-  "Latitude": 42.441127,
-  "Longitude": -76.475315
- },
- {
-  "Name": "Milstein Hall",
-  "Latitude": 42.45059589947008,
-  "Longitude": -76.48376519749942
- },
- {
-  "Name": "Pine Tree Rd.@ East Hill Plaza",
-  "Latitude": 42.437627,
-  "Longitude": -76.465061
- },
- {
-  "Name": "Pine Tree Rd.@ Rite Aid",
-  "Latitude": 42.437568,
-  "Longitude": -76.465259
- },
- {
-  "Name": "Pleasant Grove @ Jessup",
-  "Latitude": 42.456974,
-  "Longitude": -76.474309
- },
- {
-  "Name": "Ridgewood @ Thurston",
-  "Latitude": 42.454235,
-  "Longitude": -76.488748
- },
- {
-  "Name": "Ridgewood @ Wyckoff",
-  "Latitude": 42.456632,
-  "Longitude": -76.487299
- },
- {
-  "Name": "Risley Hall",
-  "Latitude": 42.45284374064116,
-  "Longitude": -76.48114231127587
- },
- {
-  "Name": "Robert Purcell Community Center",
-  "Latitude": 42.456133,
-  "Longitude": -76.4783
- },
- {
-  "Name": "Robert Purcell Community Center @ Jessup",
-  "Latitude": 42.456638,
-  "Longitude": -76.477067
- },
- {
-  "Name": "Rockefeller Hall",
-  "Latitude": 42.4493141022356,
-  "Longitude": -76.48228694397022
- },
- {
-  "Name": "Sage Hall",
-  "Latitude": 42.445483,
-  "Longitude": -76.482633
- },
- {
-  "Name": "Schwartz Performing Arts",
-  "Latitude": 42.442333,
-  "Longitude": -76.485483
- },
- {
-  "Name": "Sigma Delta Tau",
-  "Latitude": 42.456136,
-  "Longitude": -76.488797
- },
- {
-  "Name": "Statler Hall",
-  "Latitude": 42.445983,
-  "Longitude": -76.482567
- },
- {
-  "Name": "Stewart @ Seneca St. (Inbound)",
-  "Latitude": 42.440672,
-  "Longitude": -76.489799
- },
- {
-  "Name": "Stewart @ University Ave.",
-  "Latitude": 42.448963,
-  "Longitude": -76.490156
- },
- {
-  "Name": "Stewart @ Williams",
-  "Latitude": 42.44268690724183,
-  "Longitude": -76.48985272977983
- },
- {
-  "Name": "Stewart @ Williams North",
-  "Latitude": 42.44268690724183,
-  "Longitude": -76.48985272977983
- },
- {
-  "Name": "Teagle Hall",
-  "Latitude": 42.445817,
-  "Longitude": -76.479683
- },
- {
-  "Name": "Thurston @ Fall Creek Dr.",
-  "Latitude": 42.453566,
-  "Longitude": -76.483751
- },
- {
-  "Name": "Thurston @ Highland",
-  "Latitude": 42.453735,
-  "Longitude": -76.486473
- },
- {
-  "Name": "Thurston @ Stewart",
-  "Latitude": 42.454667,
-  "Longitude": -76.490547
- },
- {
-  "Name": "Thurston @ Wyckoff",
-  "Latitude": 42.453647,
-  "Longitude": -76.483684
- },
- {
-  "Name": "Thurston Ave. @ Ridgewood Rd.",
-  "Latitude": 42.454267,
-  "Longitude": -76.488867
- },
- {
-  "Name": "Tobin Field House",
-  "Latitude": 42.45645,
-  "Longitude": -76.481023
- },
- {
-  "Name": "Jessup Rd. @ Jessup Place",
-  "Latitude": 42.45687860636266,
-  "Longitude": -76.47731160022425
- },
- {
-  "Name": "Triphammer @ Dearborn",
-  "Latitude": 42.45638,
-  "Longitude": -76.481409
- },
- {
-  "Name": "Triphammer @ Jessup",
-  "Latitude": 42.456149,
-  "Longitude": -76.481098
- },
- {
-  "Name": "University @ Cornell Ave.",
-  "Latitude": 42.447253,
-  "Longitude": -76.493056
- },
- {
-  "Name": "University @ Lake",
-  "Latitude": 42.449406,
-  "Longitude": -76.492236
- },
- {
-  "Name": "University @ Stewart",
-  "Latitude": 42.449295,
-  "Longitude": -76.490566
- },
- {
-  "Name": "Uris Hall",
-  "Latitude": 42.4474088066602,
-  "Longitude": -76.48182579458917
- },
- {
-  "Name": "Uris Hall Across Street",
-  "Latitude": 42.4474088066602,
-  "Longitude": -76.48182579458917
- },
- {
-  "Name": "Vet Medical Center",
-  "Latitude": 42.446463,
-  "Longitude": -76.464828
- },
- {
-  "Name": "Vet School",
-  "Latitude": 42.447361,
-  "Longitude": -76.466653
- },
- {
-  "Name": "Wyckoff @ Highland",
-  "Latitude": 42.456149,
-  "Longitude": -76.486151
- },
- {
-  "Name": "Stewart @ Seneca (Outbound)",
-  "Latitude": 42.44137571067242,
-  "Longitude": -76.48998334850198
- },
- {
-  "Name": "Highland @ Country Club Rd./Lakeland",
-  "Latitude": 42.45847564502122,
-  "Longitude": -76.48632544692056
- },
- {
-  "Name": "Highland @ Country Club Rd./Acacia",
-  "Latitude": 42.45846811319768,
-  "Longitude": -76.48637952395289
- },
- {
-  "Name": "Thurston @ Wait",
-  "Latitude": 42.4536723703661,
-  "Longitude": -76.48541459456794
- },
- {
-  "Name": "Wait @ Triphammer",
-  "Latitude": 42.45466219443673,
-  "Longitude": -76.48220234330067
- },
- {
-  "Name": "Triphammer @ Wait",
-  "Latitude": 42.45473532536624,
-  "Longitude": -76.48124295763095
- },
- {
-  "Name": "Wait @ Thurston",
-  "Latitude": 42.45408063474326,
-  "Longitude": -76.48433673590142
- },
- {
-  "Name": "Tobin Field House - Across the Street",
-  "Latitude": 42.45636250157106,
-  "Longitude": -76.48066083795052
- },
- {
-  "Name": "Cradit Farm @ Pleasant Grove",
-  "Latitude": 42.45518135114667,
-  "Longitude": -76.47378189473743
- },
- {
-  "Name": "Foundry - Cornell",
-  "Latitude": 42.45059589947008,
-  "Longitude": -76.48376519749942
- },
- {
-  "Name": "A Lot",
-  "Latitude": 42.45815,
-  "Longitude": -76.475667
- },
- {
-  "Name": "Alpha Epsilon Pi",
-  "Latitude": 42.453809,
-  "Longitude": -76.487995
- },
- {
-  "Name": "Anabel Taylor Hall",
-  "Latitude": 42.44481866675762,
-  "Longitude": -76.4851364584642
- },
- {
-  "Name": "Appel Commons @ Cradit Farm",
-  "Latitude": 42.453323,
-  "Longitude": -76.476125
- },
- {
-  "Name": "B Lot@Vet Mewdical Center",
-  "Latitude": 42.44597697891736,
-  "Longitude": -76.4647502192776
- },
- {
-  "Name": "Baker Flagpole",
-  "Latitude": 42.44782,
-  "Longitude": -76.487736
- },
- {
-  "Name": "Baker Flagpole/Slopeside",
-  "Latitude": 42.447817,
-  "Longitude": -76.487483
- },
- {
-  "Name": "Balch Hall @ Cradit Farm",
-  "Latitude": 42.45256167270838,
-  "Longitude": -76.47956134351331
- },
- {
-  "Name": "Balch Hall @ Thurston",
-  "Latitude": 42.452977,
-  "Longitude": -76.480991
- },
- {
-  "Name": "Boldt Hall",
-  "Latitude": 42.449263,
-  "Longitude": -76.48925
- },
- {
-  "Name": "Boyce-Thompson Institute",
-  "Latitude": 42.447451,
-  "Longitude": -76.467465
- },
- {
-  "Name": "Bradfield Hall",
-  "Latitude": 42.447717,
-  "Longitude": -76.476583
- },
- {
-  "Name": "Bradfield Parking Lot",
-  "Latitude": 42.447436,
-  "Longitude": -76.476558
- },
- {
-  "Name": "Carpenter Hall",
-  "Latitude": 42.44505,
-  "Longitude": -76.48495
- },
- {
-  "Name": "Ciser Across Street",
-  "Latitude": 42.438508,
-  "Longitude": -76.465254
- },
- {
-  "Name": "Ciser Shelter",
-  "Latitude": 42.438653,
-  "Longitude": -76.465359
- },
- {
-  "Name": "College @ Dryden",
-  "Latitude": 42.441883,
-  "Longitude": -76.485317
- },
- {
-  "Name": "College @ Mitchell",
-  "Latitude": 42.437995,
-  "Longitude": -76.485069
- },
- {
-  "Name": "Corson/Mudd Hall",
-  "Latitude": 42.447443,
-  "Longitude": -76.47929
- },
- {
-  "Name": "Dairy Bar",
-  "Latitude": 42.447431,
-  "Longitude": -76.471433
- },
- {
-  "Name": "Dairy Bar Across Street",
-  "Latitude": 42.447685,
-  "Longitude": -76.471409
- },
- {
-  "Name": "Dryden Rd. @ Humphreys Crosswalk",
-  "Latitude": 42.442283,
-  "Longitude": -76.476699
- },
- {
-  "Name": "East Hill Office Building",
-  "Latitude": 42.43898621190429,
-  "Longitude": -76.46293785962538
- },
- {
-  "Name": "East Hill Office Building Across Street",
-  "Latitude": 42.43856033946333,
-  "Longitude": -76.46340610017926
- },
- {
-  "Name": "East Hill Plaza",
-  "Latitude": 42.437635,
-  "Longitude": -76.462642
- },
- {
-  "Name": "P&C Fresh - see East Hill Plaza for times",
-  "Latitude": 42.43719968401433,
-  "Longitude": -76.46359155465098
- },
- {
-  "Name": "Fairview Apts. @ Maple Ave (inbound)",
-  "Latitude": 42.441349,
-  "Longitude": -76.475092
- },
- {
-  "Name": "Fairview Apts. @ Maple Ave (outbound)",
-  "Latitude": 42.441151,
-  "Longitude": -76.475304
- },
- {
-  "Name": "Goldwin Smith",
-  "Latitude": 42.44810853085883,
-  "Longitude": -76.4826729138908
- },
- {
-  "Name": "Gun Hill Apartments",
-  "Latitude": 42.45098199079435,
-  "Longitude": -76.49345269668729
- },
- {
-  "Name": "Hasbrouck - Pleasant Grove Rd. @ Jessup",
-  "Latitude": 42.456764,
-  "Longitude": -76.474057
- },
- {
-  "Name": "Hasbrouck Apts.",
-  "Latitude": 42.456367,
-  "Longitude": -76.471617
- },
- {
-  "Name": "Helen Newman - North Campus",
-  "Latitude": 42.45320732859564,
-  "Longitude": -76.47692270789457
- },
- {
-  "Name": "Highland @ Thurston",
-  "Latitude": 42.45385,
-  "Longitude": -76.4865
- },
- {
-  "Name": "Highland @ Wyckoff",
-  "Latitude": 42.456422,
-  "Longitude": -76.486225
- },
- {
-  "Name": "Ithaca Rd @ Elmwood Ave.",
-  "Latitude": 42.4395102367634,
-  "Longitude": -76.47853447447534
- },
- {
-  "Name": "Jessup @ Pleasant Grove",
-  "Latitude": 42.456783,
-  "Longitude": -76.474467
- },
- {
-  "Name": "Jessup @ Pleasant Grove",
-  "Latitude": 42.45675274557034,
-  "Longitude": -76.47443552167225
- },
- {
-  "Name": "Jessup Place @ Tennis Courts",
-  "Latitude": 42.456982,
-  "Longitude": -76.47844
- },
- {
-  "Name": "Kennedy Hall",
-  "Latitude": 42.447668,
-  "Longitude": -76.479291
- },
- {
-  "Name": "East Ithaca Apts. @ Maple (inbound)",
-  "Latitude": 42.441404,
-  "Longitude": -76.471801
- },
- {
-  "Name": "East Ithaca Apts. @ Maple (outbound)",
-  "Latitude": 42.441266,
-  "Longitude": -76.472054
- },
- {
-  "Name": "Maplewood Park @ Maple Ave. (inbound)",
-  "Latitude": 42.441341,
-  "Longitude": -76.47502
- },
- {
-  "Name": "Maplewood Park @ Maple Ave. (outbound)",
-  "Latitude": 42.441127,
-  "Longitude": -76.475315
- },
- {
-  "Name": "Milstein Hall",
-  "Latitude": 42.45059589947008,
-  "Longitude": -76.48376519749942
- },
- {
-  "Name": "Pine Tree Rd.@ East Hill Plaza",
-  "Latitude": 42.437627,
-  "Longitude": -76.465061
- },
- {
-  "Name": "Pine Tree Rd.@ Rite Aid",
-  "Latitude": 42.437568,
-  "Longitude": -76.465259
- },
- {
-  "Name": "Pleasant Grove @ Jessup",
-  "Latitude": 42.456974,
-  "Longitude": -76.474309
- },
- {
-  "Name": "Ridgewood @ Thurston",
-  "Latitude": 42.454235,
-  "Longitude": -76.488748
- },
- {
-  "Name": "Ridgewood @ Wyckoff",
-  "Latitude": 42.456632,
-  "Longitude": -76.487299
- },
- {
-  "Name": "Risley Hall",
-  "Latitude": 42.45284374064116,
-  "Longitude": -76.48114231127587
- },
- {
-  "Name": "Robert Purcell Community Center",
-  "Latitude": 42.456133,
-  "Longitude": -76.4783
- },
- {
-  "Name": "Robert Purcell Community Center @ Jessup",
-  "Latitude": 42.456638,
-  "Longitude": -76.477067
- },
- {
-  "Name": "Rockefeller Hall",
-  "Latitude": 42.4493141022356,
-  "Longitude": -76.48228694397022
- },
- {
-  "Name": "Sage Hall",
-  "Latitude": 42.445483,
-  "Longitude": -76.482633
- },
- {
-  "Name": "Schwartz Performing Arts",
-  "Latitude": 42.442333,
-  "Longitude": -76.485483
- },
- {
-  "Name": "Sigma Delta Tau",
-  "Latitude": 42.456136,
-  "Longitude": -76.488797
- },
- {
-  "Name": "Statler Hall",
-  "Latitude": 42.445983,
-  "Longitude": -76.482567
- },
- {
-  "Name": "Stewart @ Seneca St. (Inbound)",
-  "Latitude": 42.440672,
-  "Longitude": -76.489799
- },
- {
-  "Name": "Stewart @ University Ave.",
-  "Latitude": 42.448963,
-  "Longitude": -76.490156
- },
- {
-  "Name": "Stewart @ Williams",
-  "Latitude": 42.44268690724183,
-  "Longitude": -76.48985272977983
- },
- {
-  "Name": "Stewart @ Williams North",
-  "Latitude": 42.44268690724183,
-  "Longitude": -76.48985272977983
- },
- {
-  "Name": "Teagle Hall",
-  "Latitude": 42.445817,
-  "Longitude": -76.479683
- },
- {
-  "Name": "Thurston @ Fall Creek Dr.",
-  "Latitude": 42.453566,
-  "Longitude": -76.483751
- },
- {
-  "Name": "Thurston @ Highland",
-  "Latitude": 42.453735,
-  "Longitude": -76.486473
- },
- {
-  "Name": "Thurston @ Stewart",
-  "Latitude": 42.454667,
-  "Longitude": -76.490547
- },
- {
-  "Name": "Thurston @ Wyckoff",
-  "Latitude": 42.453647,
-  "Longitude": -76.483684
- },
- {
-  "Name": "Thurston Ave. @ Ridgewood Rd.",
-  "Latitude": 42.454267,
-  "Longitude": -76.488867
- },
- {
-  "Name": "Tobin Field House",
-  "Latitude": 42.45645,
-  "Longitude": -76.481023
- },
- {
-  "Name": "Jessup Rd. @ Jessup Place",
-  "Latitude": 42.45687860636266,
-  "Longitude": -76.47731160022425
- },
- {
-  "Name": "Triphammer @ Dearborn",
-  "Latitude": 42.45638,
-  "Longitude": -76.481409
- },
- {
-  "Name": "Triphammer @ Jessup",
-  "Latitude": 42.456149,
-  "Longitude": -76.481098
- },
- {
-  "Name": "University @ Cornell Ave.",
-  "Latitude": 42.447253,
-  "Longitude": -76.493056
- },
- {
-  "Name": "University @ Lake",
-  "Latitude": 42.449406,
-  "Longitude": -76.492236
- },
- {
-  "Name": "University @ Stewart",
-  "Latitude": 42.449295,
-  "Longitude": -76.490566
- },
- {
-  "Name": "Uris Hall",
-  "Latitude": 42.4474088066602,
-  "Longitude": -76.48182579458917
- },
- {
-  "Name": "Uris Hall Across Street",
-  "Latitude": 42.4474088066602,
-  "Longitude": -76.48182579458917
- },
- {
-  "Name": "Vet Medical Center",
-  "Latitude": 42.446463,
-  "Longitude": -76.464828
- },
- {
-  "Name": "Vet School",
-  "Latitude": 42.447361,
-  "Longitude": -76.466653
- },
- {
-  "Name": "Wyckoff @ Highland",
-  "Latitude": 42.456149,
-  "Longitude": -76.486151
- },
- {
-  "Name": "Stewart @ Seneca (Outbound)",
-  "Latitude": 42.44137571067242,
-  "Longitude": -76.48998334850198
- },
- {
-  "Name": "Highland @ Country Club Rd./Lakeland",
-  "Latitude": 42.45847564502122,
-  "Longitude": -76.48632544692056
- },
- {
-  "Name": "Highland @ Country Club Rd./Acacia",
-  "Latitude": 42.45846811319768,
-  "Longitude": -76.48637952395289
- },
- {
-  "Name": "Thurston @ Wait",
-  "Latitude": 42.4536723703661,
-  "Longitude": -76.48541459456794
- },
- {
-  "Name": "Wait @ Triphammer",
-  "Latitude": 42.45466219443673,
-  "Longitude": -76.48220234330067
- },
- {
-  "Name": "Triphammer @ Wait",
-  "Latitude": 42.45473532536624,
-  "Longitude": -76.48124295763095
- },
- {
-  "Name": "Wait @ Thurston",
-  "Latitude": 42.45408063474326,
-  "Longitude": -76.48433673590142
- },
- {
-  "Name": "Tobin Field House - Across the Street",
-  "Latitude": 42.45636250157106,
-  "Longitude": -76.48066083795052
- },
- {
-  "Name": "Cradit Farm @ Pleasant Grove",
-  "Latitude": 42.45518135114667,
-  "Longitude": -76.47378189473743
- }
+  {
+    "Name": "Foundry - Cornell",
+    "Latitude": 42.45059589947008,
+    "Longitude": -76.48376519749942
+  },
+  {
+    "Name": "A Lot",
+    "Latitude": 42.45815,
+    "Longitude": -76.475667
+  },
+  {
+    "Name": "Alpha Epsilon Pi",
+    "Latitude": 42.453809,
+    "Longitude": -76.487995
+  },
+  {
+    "Name": "Anabel Taylor Hall",
+    "Latitude": 42.44481866675762,
+    "Longitude": -76.4851364584642
+  },
+  {
+    "Name": "Appel Commons @ Cradit Farm",
+    "Latitude": 42.453323,
+    "Longitude": -76.476125
+  },
+  {
+    "Name": "B Lot@Vet Mewdical Center",
+    "Latitude": 42.44597697891736,
+    "Longitude": -76.4647502192776
+  },
+  {
+    "Name": "Baker Flagpole",
+    "Latitude": 42.44782,
+    "Longitude": -76.487736
+  },
+  {
+    "Name": "Baker Flagpole/Slopeside",
+    "Latitude": 42.447817,
+    "Longitude": -76.487483
+  },
+  {
+    "Name": "Balch Hall @ Cradit Farm",
+    "Latitude": 42.45256167270838,
+    "Longitude": -76.47956134351331
+  },
+  {
+    "Name": "Balch Hall @ Thurston",
+    "Latitude": 42.452977,
+    "Longitude": -76.480991
+  },
+  {
+    "Name": "Boldt Hall",
+    "Latitude": 42.449263,
+    "Longitude": -76.48925
+  },
+  {
+    "Name": "Boyce-Thompson Institute",
+    "Latitude": 42.447451,
+    "Longitude": -76.467465
+  },
+  {
+    "Name": "Bradfield Hall",
+    "Latitude": 42.447717,
+    "Longitude": -76.476583
+  },
+  {
+    "Name": "Bradfield Parking Lot",
+    "Latitude": 42.447436,
+    "Longitude": -76.476558
+  },
+  {
+    "Name": "Carpenter Hall",
+    "Latitude": 42.44505,
+    "Longitude": -76.48495
+  },
+  {
+    "Name": "Ciser Across Street",
+    "Latitude": 42.438508,
+    "Longitude": -76.465254
+  },
+  {
+    "Name": "Ciser Shelter",
+    "Latitude": 42.438653,
+    "Longitude": -76.465359
+  },
+  {
+    "Name": "College @ Dryden",
+    "Latitude": 42.441883,
+    "Longitude": -76.485317
+  },
+  {
+    "Name": "College @ Mitchell",
+    "Latitude": 42.437995,
+    "Longitude": -76.485069
+  },
+  {
+    "Name": "Corson/Mudd Hall",
+    "Latitude": 42.447443,
+    "Longitude": -76.47929
+  },
+  {
+    "Name": "Dairy Bar",
+    "Latitude": 42.447431,
+    "Longitude": -76.471433
+  },
+  {
+    "Name": "Dairy Bar Across Street",
+    "Latitude": 42.447685,
+    "Longitude": -76.471409
+  },
+  {
+    "Name": "Dryden Rd. @ Humphreys Crosswalk",
+    "Latitude": 42.442283,
+    "Longitude": -76.476699
+  },
+  {
+    "Name": "East Hill Office Building",
+    "Latitude": 42.43898621190429,
+    "Longitude": -76.46293785962538
+  },
+  {
+    "Name": "East Hill Office Building Across Street",
+    "Latitude": 42.43856033946333,
+    "Longitude": -76.46340610017926
+  },
+  {
+    "Name": "East Hill Plaza",
+    "Latitude": 42.437635,
+    "Longitude": -76.462642
+  },
+  {
+    "Name": "P&C Fresh - see East Hill Plaza for times",
+    "Latitude": 42.43719968401433,
+    "Longitude": -76.46359155465098
+  },
+  {
+    "Name": "Fairview Apts. @ Maple Ave (inbound)",
+    "Latitude": 42.441349,
+    "Longitude": -76.475092
+  },
+  {
+    "Name": "Fairview Apts. @ Maple Ave (outbound)",
+    "Latitude": 42.441151,
+    "Longitude": -76.475304
+  },
+  {
+    "Name": "Goldwin Smith",
+    "Latitude": 42.44810853085883,
+    "Longitude": -76.4826729138908
+  },
+  {
+    "Name": "Gun Hill Apartments",
+    "Latitude": 42.45098199079435,
+    "Longitude": -76.49345269668729
+  },
+  {
+    "Name": "Hasbrouck - Pleasant Grove Rd. @ Jessup",
+    "Latitude": 42.456764,
+    "Longitude": -76.474057
+  },
+  {
+    "Name": "Hasbrouck Apts.",
+    "Latitude": 42.456367,
+    "Longitude": -76.471617
+  },
+  {
+    "Name": "Helen Newman - North Campus",
+    "Latitude": 42.45320732859564,
+    "Longitude": -76.47692270789457
+  },
+  {
+    "Name": "Highland @ Thurston",
+    "Latitude": 42.45385,
+    "Longitude": -76.4865
+  },
+  {
+    "Name": "Highland @ Wyckoff",
+    "Latitude": 42.456422,
+    "Longitude": -76.486225
+  },
+  {
+    "Name": "Ithaca Rd @ Elmwood Ave.",
+    "Latitude": 42.4395102367634,
+    "Longitude": -76.47853447447534
+  },
+  {
+    "Name": "Jessup @ Pleasant Grove",
+    "Latitude": 42.456783,
+    "Longitude": -76.474467
+  },
+  {
+    "Name": "Jessup @ Pleasant Grove",
+    "Latitude": 42.45675274557034,
+    "Longitude": -76.47443552167225
+  },
+  {
+    "Name": "Jessup Place @ Tennis Courts",
+    "Latitude": 42.456982,
+    "Longitude": -76.47844
+  },
+  {
+    "Name": "Kennedy Hall",
+    "Latitude": 42.447668,
+    "Longitude": -76.479291
+  },
+  {
+    "Name": "East Ithaca Apts. @ Maple (inbound)",
+    "Latitude": 42.441404,
+    "Longitude": -76.471801
+  },
+  {
+    "Name": "East Ithaca Apts. @ Maple (outbound)",
+    "Latitude": 42.441266,
+    "Longitude": -76.472054
+  },
+  {
+    "Name": "Maplewood Park @ Maple Ave. (inbound)",
+    "Latitude": 42.441341,
+    "Longitude": -76.47502
+  },
+  {
+    "Name": "Maplewood Park @ Maple Ave. (outbound)",
+    "Latitude": 42.441127,
+    "Longitude": -76.475315
+  },
+  {
+    "Name": "Milstein Hall",
+    "Latitude": 42.45059589947008,
+    "Longitude": -76.48376519749942
+  },
+  {
+    "Name": "Pine Tree Rd.@ East Hill Plaza",
+    "Latitude": 42.437627,
+    "Longitude": -76.465061
+  },
+  {
+    "Name": "Pine Tree Rd.@ Rite Aid",
+    "Latitude": 42.437568,
+    "Longitude": -76.465259
+  },
+  {
+    "Name": "Pleasant Grove @ Jessup",
+    "Latitude": 42.456974,
+    "Longitude": -76.474309
+  },
+  {
+    "Name": "Ridgewood @ Thurston",
+    "Latitude": 42.454235,
+    "Longitude": -76.488748
+  },
+  {
+    "Name": "Ridgewood @ Wyckoff",
+    "Latitude": 42.456632,
+    "Longitude": -76.487299
+  },
+  {
+    "Name": "Risley Hall",
+    "Latitude": 42.45284374064116,
+    "Longitude": -76.48114231127587
+  },
+  {
+    "Name": "Robert Purcell Community Center",
+    "Latitude": 42.456133,
+    "Longitude": -76.4783
+  },
+  {
+    "Name": "Robert Purcell Community Center @ Jessup",
+    "Latitude": 42.456638,
+    "Longitude": -76.477067
+  },
+  {
+    "Name": "Rockefeller Hall",
+    "Latitude": 42.4493141022356,
+    "Longitude": -76.48228694397022
+  },
+  {
+    "Name": "Sage Hall",
+    "Latitude": 42.445483,
+    "Longitude": -76.482633
+  },
+  {
+    "Name": "Schwartz Performing Arts",
+    "Latitude": 42.442333,
+    "Longitude": -76.485483
+  },
+  {
+    "Name": "Sigma Delta Tau",
+    "Latitude": 42.456136,
+    "Longitude": -76.488797
+  },
+  {
+    "Name": "Statler Hall",
+    "Latitude": 42.445983,
+    "Longitude": -76.482567
+  },
+  {
+    "Name": "Stewart @ Seneca St. (Inbound)",
+    "Latitude": 42.440672,
+    "Longitude": -76.489799
+  },
+  {
+    "Name": "Stewart @ University Ave.",
+    "Latitude": 42.448963,
+    "Longitude": -76.490156
+  },
+  {
+    "Name": "Stewart @ Williams",
+    "Latitude": 42.44268690724183,
+    "Longitude": -76.48985272977983
+  },
+  {
+    "Name": "Stewart @ Williams North",
+    "Latitude": 42.44268690724183,
+    "Longitude": -76.48985272977983
+  },
+  {
+    "Name": "Teagle Hall",
+    "Latitude": 42.445817,
+    "Longitude": -76.479683
+  },
+  {
+    "Name": "Thurston @ Fall Creek Dr.",
+    "Latitude": 42.453566,
+    "Longitude": -76.483751
+  },
+  {
+    "Name": "Thurston @ Highland",
+    "Latitude": 42.453735,
+    "Longitude": -76.486473
+  },
+  {
+    "Name": "Thurston @ Stewart",
+    "Latitude": 42.454667,
+    "Longitude": -76.490547
+  },
+  {
+    "Name": "Thurston @ Wyckoff",
+    "Latitude": 42.453647,
+    "Longitude": -76.483684
+  },
+  {
+    "Name": "Thurston Ave. @ Ridgewood Rd.",
+    "Latitude": 42.454267,
+    "Longitude": -76.488867
+  },
+  {
+    "Name": "Tobin Field House",
+    "Latitude": 42.45645,
+    "Longitude": -76.481023
+  },
+  {
+    "Name": "Jessup Rd. @ Jessup Place",
+    "Latitude": 42.45687860636266,
+    "Longitude": -76.47731160022425
+  },
+  {
+    "Name": "Triphammer @ Dearborn",
+    "Latitude": 42.45638,
+    "Longitude": -76.481409
+  },
+  {
+    "Name": "Triphammer @ Jessup",
+    "Latitude": 42.456149,
+    "Longitude": -76.481098
+  },
+  {
+    "Name": "University @ Cornell Ave.",
+    "Latitude": 42.447253,
+    "Longitude": -76.493056
+  },
+  {
+    "Name": "University @ Lake",
+    "Latitude": 42.449406,
+    "Longitude": -76.492236
+  },
+  {
+    "Name": "University @ Stewart",
+    "Latitude": 42.449295,
+    "Longitude": -76.490566
+  },
+  {
+    "Name": "Uris Hall",
+    "Latitude": 42.4474088066602,
+    "Longitude": -76.48182579458917
+  },
+  {
+    "Name": "Uris Hall Across Street",
+    "Latitude": 42.4474088066602,
+    "Longitude": -76.48182579458917
+  },
+  {
+    "Name": "Vet Medical Center",
+    "Latitude": 42.446463,
+    "Longitude": -76.464828
+  },
+  {
+    "Name": "Vet School",
+    "Latitude": 42.447361,
+    "Longitude": -76.466653
+  },
+  {
+    "Name": "Wyckoff @ Highland",
+    "Latitude": 42.456149,
+    "Longitude": -76.486151
+  },
+  {
+    "Name": "Stewart @ Seneca (Outbound)",
+    "Latitude": 42.44137571067242,
+    "Longitude": -76.48998334850198
+  },
+  {
+    "Name": "Highland @ Country Club Rd./Lakeland",
+    "Latitude": 42.45847564502122,
+    "Longitude": -76.48632544692056
+  },
+  {
+    "Name": "Highland @ Country Club Rd./Acacia",
+    "Latitude": 42.45846811319768,
+    "Longitude": -76.48637952395289
+  },
+  {
+    "Name": "Thurston @ Wait",
+    "Latitude": 42.4536723703661,
+    "Longitude": -76.48541459456794
+  },
+  {
+    "Name": "Wait @ Triphammer",
+    "Latitude": 42.45466219443673,
+    "Longitude": -76.48220234330067
+  },
+  {
+    "Name": "Triphammer @ Wait",
+    "Latitude": 42.45473532536624,
+    "Longitude": -76.48124295763095
+  },
+  {
+    "Name": "Wait @ Thurston",
+    "Latitude": 42.45408063474326,
+    "Longitude": -76.48433673590142
+  },
+  {
+    "Name": "Tobin Field House - Across the Street",
+    "Latitude": 42.45636250157106,
+    "Longitude": -76.48066083795052
+  },
+  {
+    "Name": "Cradit Farm @ Pleasant Grove",
+    "Latitude": 42.45518135114667,
+    "Longitude": -76.47378189473743
+  },
+  {
+    "Name": "Foundry - Cornell",
+    "Latitude": 42.45059589947008,
+    "Longitude": -76.48376519749942
+  },
+  {
+    "Name": "A Lot",
+    "Latitude": 42.45815,
+    "Longitude": -76.475667
+  },
+  {
+    "Name": "Alpha Epsilon Pi",
+    "Latitude": 42.453809,
+    "Longitude": -76.487995
+  },
+  {
+    "Name": "Anabel Taylor Hall",
+    "Latitude": 42.44481866675762,
+    "Longitude": -76.4851364584642
+  },
+  {
+    "Name": "Appel Commons @ Cradit Farm",
+    "Latitude": 42.453323,
+    "Longitude": -76.476125
+  },
+  {
+    "Name": "B Lot@Vet Mewdical Center",
+    "Latitude": 42.44597697891736,
+    "Longitude": -76.4647502192776
+  },
+  {
+    "Name": "Baker Flagpole",
+    "Latitude": 42.44782,
+    "Longitude": -76.487736
+  },
+  {
+    "Name": "Baker Flagpole/Slopeside",
+    "Latitude": 42.447817,
+    "Longitude": -76.487483
+  },
+  {
+    "Name": "Balch Hall @ Cradit Farm",
+    "Latitude": 42.45256167270838,
+    "Longitude": -76.47956134351331
+  },
+  {
+    "Name": "Balch Hall @ Thurston",
+    "Latitude": 42.452977,
+    "Longitude": -76.480991
+  },
+  {
+    "Name": "Boldt Hall",
+    "Latitude": 42.449263,
+    "Longitude": -76.48925
+  },
+  {
+    "Name": "Boyce-Thompson Institute",
+    "Latitude": 42.447451,
+    "Longitude": -76.467465
+  },
+  {
+    "Name": "Bradfield Hall",
+    "Latitude": 42.447717,
+    "Longitude": -76.476583
+  },
+  {
+    "Name": "Bradfield Parking Lot",
+    "Latitude": 42.447436,
+    "Longitude": -76.476558
+  },
+  {
+    "Name": "Carpenter Hall",
+    "Latitude": 42.44505,
+    "Longitude": -76.48495
+  },
+  {
+    "Name": "Ciser Across Street",
+    "Latitude": 42.438508,
+    "Longitude": -76.465254
+  },
+  {
+    "Name": "Ciser Shelter",
+    "Latitude": 42.438653,
+    "Longitude": -76.465359
+  },
+  {
+    "Name": "College @ Dryden",
+    "Latitude": 42.441883,
+    "Longitude": -76.485317
+  },
+  {
+    "Name": "College @ Mitchell",
+    "Latitude": 42.437995,
+    "Longitude": -76.485069
+  },
+  {
+    "Name": "Corson/Mudd Hall",
+    "Latitude": 42.447443,
+    "Longitude": -76.47929
+  },
+  {
+    "Name": "Dairy Bar",
+    "Latitude": 42.447431,
+    "Longitude": -76.471433
+  },
+  {
+    "Name": "Dairy Bar Across Street",
+    "Latitude": 42.447685,
+    "Longitude": -76.471409
+  },
+  {
+    "Name": "Dryden Rd. @ Humphreys Crosswalk",
+    "Latitude": 42.442283,
+    "Longitude": -76.476699
+  },
+  {
+    "Name": "East Hill Office Building",
+    "Latitude": 42.43898621190429,
+    "Longitude": -76.46293785962538
+  },
+  {
+    "Name": "East Hill Office Building Across Street",
+    "Latitude": 42.43856033946333,
+    "Longitude": -76.46340610017926
+  },
+  {
+    "Name": "East Hill Plaza",
+    "Latitude": 42.437635,
+    "Longitude": -76.462642
+  },
+  {
+    "Name": "P&C Fresh - see East Hill Plaza for times",
+    "Latitude": 42.43719968401433,
+    "Longitude": -76.46359155465098
+  },
+  {
+    "Name": "Fairview Apts. @ Maple Ave (inbound)",
+    "Latitude": 42.441349,
+    "Longitude": -76.475092
+  },
+  {
+    "Name": "Fairview Apts. @ Maple Ave (outbound)",
+    "Latitude": 42.441151,
+    "Longitude": -76.475304
+  },
+  {
+    "Name": "Goldwin Smith",
+    "Latitude": 42.44810853085883,
+    "Longitude": -76.4826729138908
+  },
+  {
+    "Name": "Gun Hill Apartments",
+    "Latitude": 42.45098199079435,
+    "Longitude": -76.49345269668729
+  },
+  {
+    "Name": "Hasbrouck - Pleasant Grove Rd. @ Jessup",
+    "Latitude": 42.456764,
+    "Longitude": -76.474057
+  },
+  {
+    "Name": "Hasbrouck Apts.",
+    "Latitude": 42.456367,
+    "Longitude": -76.471617
+  },
+  {
+    "Name": "Helen Newman - North Campus",
+    "Latitude": 42.45320732859564,
+    "Longitude": -76.47692270789457
+  },
+  {
+    "Name": "Highland @ Thurston",
+    "Latitude": 42.45385,
+    "Longitude": -76.4865
+  },
+  {
+    "Name": "Highland @ Wyckoff",
+    "Latitude": 42.456422,
+    "Longitude": -76.486225
+  },
+  {
+    "Name": "Ithaca Rd @ Elmwood Ave.",
+    "Latitude": 42.4395102367634,
+    "Longitude": -76.47853447447534
+  },
+  {
+    "Name": "Jessup @ Pleasant Grove",
+    "Latitude": 42.456783,
+    "Longitude": -76.474467
+  },
+  {
+    "Name": "Jessup @ Pleasant Grove",
+    "Latitude": 42.45675274557034,
+    "Longitude": -76.47443552167225
+  },
+  {
+    "Name": "Jessup Place @ Tennis Courts",
+    "Latitude": 42.456982,
+    "Longitude": -76.47844
+  },
+  {
+    "Name": "Kennedy Hall",
+    "Latitude": 42.447668,
+    "Longitude": -76.479291
+  },
+  {
+    "Name": "East Ithaca Apts. @ Maple (inbound)",
+    "Latitude": 42.441404,
+    "Longitude": -76.471801
+  },
+  {
+    "Name": "East Ithaca Apts. @ Maple (outbound)",
+    "Latitude": 42.441266,
+    "Longitude": -76.472054
+  },
+  {
+    "Name": "Maplewood Park @ Maple Ave. (inbound)",
+    "Latitude": 42.441341,
+    "Longitude": -76.47502
+  },
+  {
+    "Name": "Maplewood Park @ Maple Ave. (outbound)",
+    "Latitude": 42.441127,
+    "Longitude": -76.475315
+  },
+  {
+    "Name": "Milstein Hall",
+    "Latitude": 42.45059589947008,
+    "Longitude": -76.48376519749942
+  },
+  {
+    "Name": "Pine Tree Rd.@ East Hill Plaza",
+    "Latitude": 42.437627,
+    "Longitude": -76.465061
+  },
+  {
+    "Name": "Pine Tree Rd.@ Rite Aid",
+    "Latitude": 42.437568,
+    "Longitude": -76.465259
+  },
+  {
+    "Name": "Pleasant Grove @ Jessup",
+    "Latitude": 42.456974,
+    "Longitude": -76.474309
+  },
+  {
+    "Name": "Ridgewood @ Thurston",
+    "Latitude": 42.454235,
+    "Longitude": -76.488748
+  },
+  {
+    "Name": "Ridgewood @ Wyckoff",
+    "Latitude": 42.456632,
+    "Longitude": -76.487299
+  },
+  {
+    "Name": "Risley Hall",
+    "Latitude": 42.45284374064116,
+    "Longitude": -76.48114231127587
+  },
+  {
+    "Name": "Robert Purcell Community Center",
+    "Latitude": 42.456133,
+    "Longitude": -76.4783
+  },
+  {
+    "Name": "Robert Purcell Community Center @ Jessup",
+    "Latitude": 42.456638,
+    "Longitude": -76.477067
+  },
+  {
+    "Name": "Rockefeller Hall",
+    "Latitude": 42.4493141022356,
+    "Longitude": -76.48228694397022
+  },
+  {
+    "Name": "Sage Hall",
+    "Latitude": 42.445483,
+    "Longitude": -76.482633
+  },
+  {
+    "Name": "Schwartz Performing Arts",
+    "Latitude": 42.442333,
+    "Longitude": -76.485483
+  },
+  {
+    "Name": "Sigma Delta Tau",
+    "Latitude": 42.456136,
+    "Longitude": -76.488797
+  },
+  {
+    "Name": "Statler Hall",
+    "Latitude": 42.445983,
+    "Longitude": -76.482567
+  },
+  {
+    "Name": "Stewart @ Seneca St. (Inbound)",
+    "Latitude": 42.440672,
+    "Longitude": -76.489799
+  },
+  {
+    "Name": "Stewart @ University Ave.",
+    "Latitude": 42.448963,
+    "Longitude": -76.490156
+  },
+  {
+    "Name": "Stewart @ Williams",
+    "Latitude": 42.44268690724183,
+    "Longitude": -76.48985272977983
+  },
+  {
+    "Name": "Stewart @ Williams North",
+    "Latitude": 42.44268690724183,
+    "Longitude": -76.48985272977983
+  },
+  {
+    "Name": "Teagle Hall",
+    "Latitude": 42.445817,
+    "Longitude": -76.479683
+  },
+  {
+    "Name": "Thurston @ Fall Creek Dr.",
+    "Latitude": 42.453566,
+    "Longitude": -76.483751
+  },
+  {
+    "Name": "Thurston @ Highland",
+    "Latitude": 42.453735,
+    "Longitude": -76.486473
+  },
+  {
+    "Name": "Thurston @ Stewart",
+    "Latitude": 42.454667,
+    "Longitude": -76.490547
+  },
+  {
+    "Name": "Thurston @ Wyckoff",
+    "Latitude": 42.453647,
+    "Longitude": -76.483684
+  },
+  {
+    "Name": "Thurston Ave. @ Ridgewood Rd.",
+    "Latitude": 42.454267,
+    "Longitude": -76.488867
+  },
+  {
+    "Name": "Tobin Field House",
+    "Latitude": 42.45645,
+    "Longitude": -76.481023
+  },
+  {
+    "Name": "Jessup Rd. @ Jessup Place",
+    "Latitude": 42.45687860636266,
+    "Longitude": -76.47731160022425
+  },
+  {
+    "Name": "Triphammer @ Dearborn",
+    "Latitude": 42.45638,
+    "Longitude": -76.481409
+  },
+  {
+    "Name": "Triphammer @ Jessup",
+    "Latitude": 42.456149,
+    "Longitude": -76.481098
+  },
+  {
+    "Name": "University @ Cornell Ave.",
+    "Latitude": 42.447253,
+    "Longitude": -76.493056
+  },
+  {
+    "Name": "University @ Lake",
+    "Latitude": 42.449406,
+    "Longitude": -76.492236
+  },
+  {
+    "Name": "University @ Stewart",
+    "Latitude": 42.449295,
+    "Longitude": -76.490566
+  },
+  {
+    "Name": "Uris Hall",
+    "Latitude": 42.4474088066602,
+    "Longitude": -76.48182579458917
+  },
+  {
+    "Name": "Uris Hall Across Street",
+    "Latitude": 42.4474088066602,
+    "Longitude": -76.48182579458917
+  },
+  {
+    "Name": "Vet Medical Center",
+    "Latitude": 42.446463,
+    "Longitude": -76.464828
+  },
+  {
+    "Name": "Vet School",
+    "Latitude": 42.447361,
+    "Longitude": -76.466653
+  },
+  {
+    "Name": "Wyckoff @ Highland",
+    "Latitude": 42.456149,
+    "Longitude": -76.486151
+  },
+  {
+    "Name": "Stewart @ Seneca (Outbound)",
+    "Latitude": 42.44137571067242,
+    "Longitude": -76.48998334850198
+  },
+  {
+    "Name": "Highland @ Country Club Rd./Lakeland",
+    "Latitude": 42.45847564502122,
+    "Longitude": -76.48632544692056
+  },
+  {
+    "Name": "Highland @ Country Club Rd./Acacia",
+    "Latitude": 42.45846811319768,
+    "Longitude": -76.48637952395289
+  },
+  {
+    "Name": "Thurston @ Wait",
+    "Latitude": 42.4536723703661,
+    "Longitude": -76.48541459456794
+  },
+  {
+    "Name": "Wait @ Triphammer",
+    "Latitude": 42.45466219443673,
+    "Longitude": -76.48220234330067
+  },
+  {
+    "Name": "Triphammer @ Wait",
+    "Latitude": 42.45473532536624,
+    "Longitude": -76.48124295763095
+  },
+  {
+    "Name": "Wait @ Thurston",
+    "Latitude": 42.45408063474326,
+    "Longitude": -76.48433673590142
+  },
+  {
+    "Name": "Tobin Field House - Across the Street",
+    "Latitude": 42.45636250157106,
+    "Longitude": -76.48066083795052
+  },
+  {
+    "Name": "Cradit Farm @ Pleasant Grove",
+    "Latitude": 42.45518135114667,
+    "Longitude": -76.47378189473743
+  },
+  {
+    "Name": "Foundry - Cornell",
+    "Latitude": 42.45059589947008,
+    "Longitude": -76.48376519749942
+  },
+  {
+    "Name": "A Lot",
+    "Latitude": 42.45815,
+    "Longitude": -76.475667
+  },
+  {
+    "Name": "Alpha Epsilon Pi",
+    "Latitude": 42.453809,
+    "Longitude": -76.487995
+  },
+  {
+    "Name": "Anabel Taylor Hall",
+    "Latitude": 42.44481866675762,
+    "Longitude": -76.4851364584642
+  },
+  {
+    "Name": "Appel Commons @ Cradit Farm",
+    "Latitude": 42.453323,
+    "Longitude": -76.476125
+  },
+  {
+    "Name": "B Lot@Vet Mewdical Center",
+    "Latitude": 42.44597697891736,
+    "Longitude": -76.4647502192776
+  },
+  {
+    "Name": "Baker Flagpole",
+    "Latitude": 42.44782,
+    "Longitude": -76.487736
+  },
+  {
+    "Name": "Baker Flagpole/Slopeside",
+    "Latitude": 42.447817,
+    "Longitude": -76.487483
+  },
+  {
+    "Name": "Balch Hall @ Cradit Farm",
+    "Latitude": 42.45256167270838,
+    "Longitude": -76.47956134351331
+  },
+  {
+    "Name": "Balch Hall @ Thurston",
+    "Latitude": 42.452977,
+    "Longitude": -76.480991
+  },
+  {
+    "Name": "Boldt Hall",
+    "Latitude": 42.449263,
+    "Longitude": -76.48925
+  },
+  {
+    "Name": "Boyce-Thompson Institute",
+    "Latitude": 42.447451,
+    "Longitude": -76.467465
+  },
+  {
+    "Name": "Bradfield Hall",
+    "Latitude": 42.447717,
+    "Longitude": -76.476583
+  },
+  {
+    "Name": "Bradfield Parking Lot",
+    "Latitude": 42.447436,
+    "Longitude": -76.476558
+  },
+  {
+    "Name": "Carpenter Hall",
+    "Latitude": 42.44505,
+    "Longitude": -76.48495
+  },
+  {
+    "Name": "Ciser Across Street",
+    "Latitude": 42.438508,
+    "Longitude": -76.465254
+  },
+  {
+    "Name": "Ciser Shelter",
+    "Latitude": 42.438653,
+    "Longitude": -76.465359
+  },
+  {
+    "Name": "College @ Dryden",
+    "Latitude": 42.441883,
+    "Longitude": -76.485317
+  },
+  {
+    "Name": "College @ Mitchell",
+    "Latitude": 42.437995,
+    "Longitude": -76.485069
+  },
+  {
+    "Name": "Corson/Mudd Hall",
+    "Latitude": 42.447443,
+    "Longitude": -76.47929
+  },
+  {
+    "Name": "Dairy Bar",
+    "Latitude": 42.447431,
+    "Longitude": -76.471433
+  },
+  {
+    "Name": "Dairy Bar Across Street",
+    "Latitude": 42.447685,
+    "Longitude": -76.471409
+  },
+  {
+    "Name": "Dryden Rd. @ Humphreys Crosswalk",
+    "Latitude": 42.442283,
+    "Longitude": -76.476699
+  },
+  {
+    "Name": "East Hill Office Building",
+    "Latitude": 42.43898621190429,
+    "Longitude": -76.46293785962538
+  },
+  {
+    "Name": "East Hill Office Building Across Street",
+    "Latitude": 42.43856033946333,
+    "Longitude": -76.46340610017926
+  },
+  {
+    "Name": "East Hill Plaza",
+    "Latitude": 42.437635,
+    "Longitude": -76.462642
+  },
+  {
+    "Name": "P&C Fresh - see East Hill Plaza for times",
+    "Latitude": 42.43719968401433,
+    "Longitude": -76.46359155465098
+  },
+  {
+    "Name": "Fairview Apts. @ Maple Ave (inbound)",
+    "Latitude": 42.441349,
+    "Longitude": -76.475092
+  },
+  {
+    "Name": "Fairview Apts. @ Maple Ave (outbound)",
+    "Latitude": 42.441151,
+    "Longitude": -76.475304
+  },
+  {
+    "Name": "Goldwin Smith",
+    "Latitude": 42.44810853085883,
+    "Longitude": -76.4826729138908
+  },
+  {
+    "Name": "Gun Hill Apartments",
+    "Latitude": 42.45098199079435,
+    "Longitude": -76.49345269668729
+  },
+  {
+    "Name": "Hasbrouck - Pleasant Grove Rd. @ Jessup",
+    "Latitude": 42.456764,
+    "Longitude": -76.474057
+  },
+  {
+    "Name": "Hasbrouck Apts.",
+    "Latitude": 42.456367,
+    "Longitude": -76.471617
+  },
+  {
+    "Name": "Helen Newman - North Campus",
+    "Latitude": 42.45320732859564,
+    "Longitude": -76.47692270789457
+  },
+  {
+    "Name": "Highland @ Thurston",
+    "Latitude": 42.45385,
+    "Longitude": -76.4865
+  },
+  {
+    "Name": "Highland @ Wyckoff",
+    "Latitude": 42.456422,
+    "Longitude": -76.486225
+  },
+  {
+    "Name": "Ithaca Rd @ Elmwood Ave.",
+    "Latitude": 42.4395102367634,
+    "Longitude": -76.47853447447534
+  },
+  {
+    "Name": "Jessup @ Pleasant Grove",
+    "Latitude": 42.456783,
+    "Longitude": -76.474467
+  },
+  {
+    "Name": "Jessup @ Pleasant Grove",
+    "Latitude": 42.45675274557034,
+    "Longitude": -76.47443552167225
+  },
+  {
+    "Name": "Jessup Place @ Tennis Courts",
+    "Latitude": 42.456982,
+    "Longitude": -76.47844
+  },
+  {
+    "Name": "Kennedy Hall",
+    "Latitude": 42.447668,
+    "Longitude": -76.479291
+  },
+  {
+    "Name": "East Ithaca Apts. @ Maple (inbound)",
+    "Latitude": 42.441404,
+    "Longitude": -76.471801
+  },
+  {
+    "Name": "East Ithaca Apts. @ Maple (outbound)",
+    "Latitude": 42.441266,
+    "Longitude": -76.472054
+  },
+  {
+    "Name": "Maplewood Park @ Maple Ave. (inbound)",
+    "Latitude": 42.441341,
+    "Longitude": -76.47502
+  },
+  {
+    "Name": "Maplewood Park @ Maple Ave. (outbound)",
+    "Latitude": 42.441127,
+    "Longitude": -76.475315
+  },
+  {
+    "Name": "Milstein Hall",
+    "Latitude": 42.45059589947008,
+    "Longitude": -76.48376519749942
+  },
+  {
+    "Name": "Pine Tree Rd.@ East Hill Plaza",
+    "Latitude": 42.437627,
+    "Longitude": -76.465061
+  },
+  {
+    "Name": "Pine Tree Rd.@ Rite Aid",
+    "Latitude": 42.437568,
+    "Longitude": -76.465259
+  },
+  {
+    "Name": "Pleasant Grove @ Jessup",
+    "Latitude": 42.456974,
+    "Longitude": -76.474309
+  },
+  {
+    "Name": "Ridgewood @ Thurston",
+    "Latitude": 42.454235,
+    "Longitude": -76.488748
+  },
+  {
+    "Name": "Ridgewood @ Wyckoff",
+    "Latitude": 42.456632,
+    "Longitude": -76.487299
+  },
+  {
+    "Name": "Risley Hall",
+    "Latitude": 42.45284374064116,
+    "Longitude": -76.48114231127587
+  },
+  {
+    "Name": "Robert Purcell Community Center",
+    "Latitude": 42.456133,
+    "Longitude": -76.4783
+  },
+  {
+    "Name": "Robert Purcell Community Center @ Jessup",
+    "Latitude": 42.456638,
+    "Longitude": -76.477067
+  },
+  {
+    "Name": "Rockefeller Hall",
+    "Latitude": 42.4493141022356,
+    "Longitude": -76.48228694397022
+  },
+  {
+    "Name": "Sage Hall",
+    "Latitude": 42.445483,
+    "Longitude": -76.482633
+  },
+  {
+    "Name": "Schwartz Performing Arts",
+    "Latitude": 42.442333,
+    "Longitude": -76.485483
+  },
+  {
+    "Name": "Sigma Delta Tau",
+    "Latitude": 42.456136,
+    "Longitude": -76.488797
+  },
+  {
+    "Name": "Statler Hall",
+    "Latitude": 42.445983,
+    "Longitude": -76.482567
+  },
+  {
+    "Name": "Stewart @ Seneca St. (Inbound)",
+    "Latitude": 42.440672,
+    "Longitude": -76.489799
+  },
+  {
+    "Name": "Stewart @ University Ave.",
+    "Latitude": 42.448963,
+    "Longitude": -76.490156
+  },
+  {
+    "Name": "Stewart @ Williams",
+    "Latitude": 42.44268690724183,
+    "Longitude": -76.48985272977983
+  },
+  {
+    "Name": "Stewart @ Williams North",
+    "Latitude": 42.44268690724183,
+    "Longitude": -76.48985272977983
+  },
+  {
+    "Name": "Teagle Hall",
+    "Latitude": 42.445817,
+    "Longitude": -76.479683
+  },
+  {
+    "Name": "Thurston @ Fall Creek Dr.",
+    "Latitude": 42.453566,
+    "Longitude": -76.483751
+  },
+  {
+    "Name": "Thurston @ Highland",
+    "Latitude": 42.453735,
+    "Longitude": -76.486473
+  },
+  {
+    "Name": "Thurston @ Stewart",
+    "Latitude": 42.454667,
+    "Longitude": -76.490547
+  },
+  {
+    "Name": "Thurston @ Wyckoff",
+    "Latitude": 42.453647,
+    "Longitude": -76.483684
+  },
+  {
+    "Name": "Thurston Ave. @ Ridgewood Rd.",
+    "Latitude": 42.454267,
+    "Longitude": -76.488867
+  },
+  {
+    "Name": "Tobin Field House",
+    "Latitude": 42.45645,
+    "Longitude": -76.481023
+  },
+  {
+    "Name": "Jessup Rd. @ Jessup Place",
+    "Latitude": 42.45687860636266,
+    "Longitude": -76.47731160022425
+  },
+  {
+    "Name": "Triphammer @ Dearborn",
+    "Latitude": 42.45638,
+    "Longitude": -76.481409
+  },
+  {
+    "Name": "Triphammer @ Jessup",
+    "Latitude": 42.456149,
+    "Longitude": -76.481098
+  },
+  {
+    "Name": "University @ Cornell Ave.",
+    "Latitude": 42.447253,
+    "Longitude": -76.493056
+  },
+  {
+    "Name": "University @ Lake",
+    "Latitude": 42.449406,
+    "Longitude": -76.492236
+  },
+  {
+    "Name": "University @ Stewart",
+    "Latitude": 42.449295,
+    "Longitude": -76.490566
+  },
+  {
+    "Name": "Uris Hall",
+    "Latitude": 42.4474088066602,
+    "Longitude": -76.48182579458917
+  },
+  {
+    "Name": "Uris Hall Across Street",
+    "Latitude": 42.4474088066602,
+    "Longitude": -76.48182579458917
+  },
+  {
+    "Name": "Vet Medical Center",
+    "Latitude": 42.446463,
+    "Longitude": -76.464828
+  },
+  {
+    "Name": "Vet School",
+    "Latitude": 42.447361,
+    "Longitude": -76.466653
+  },
+  {
+    "Name": "Wyckoff @ Highland",
+    "Latitude": 42.456149,
+    "Longitude": -76.486151
+  },
+  {
+    "Name": "Stewart @ Seneca (Outbound)",
+    "Latitude": 42.44137571067242,
+    "Longitude": -76.48998334850198
+  },
+  {
+    "Name": "Highland @ Country Club Rd./Lakeland",
+    "Latitude": 42.45847564502122,
+    "Longitude": -76.48632544692056
+  },
+  {
+    "Name": "Highland @ Country Club Rd./Acacia",
+    "Latitude": 42.45846811319768,
+    "Longitude": -76.48637952395289
+  },
+  {
+    "Name": "Thurston @ Wait",
+    "Latitude": 42.4536723703661,
+    "Longitude": -76.48541459456794
+  },
+  {
+    "Name": "Wait @ Triphammer",
+    "Latitude": 42.45466219443673,
+    "Longitude": -76.48220234330067
+  },
+  {
+    "Name": "Triphammer @ Wait",
+    "Latitude": 42.45473532536624,
+    "Longitude": -76.48124295763095
+  },
+  {
+    "Name": "Wait @ Thurston",
+    "Latitude": 42.45408063474326,
+    "Longitude": -76.48433673590142
+  },
+  {
+    "Name": "Tobin Field House - Across the Street",
+    "Latitude": 42.45636250157106,
+    "Longitude": -76.48066083795052
+  },
+  {
+    "Name": "Cradit Farm @ Pleasant Grove",
+    "Latitude": 42.45518135114667,
+    "Longitude": -76.47378189473743
+  }
 ]
