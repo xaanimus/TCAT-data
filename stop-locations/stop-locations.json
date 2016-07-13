@@ -20,7 +20,7 @@
     "Longitude": -76.501802
   },
   {
-    "Name": "Aldi / Farmers' Market",
+    "Name": "Aldi",
     "Latitude": 42.449233,
     "Longitude": -76.50645
   },
@@ -65,7 +65,7 @@
     "Longitude": -76.49506723560975
   },
   {
-    "Name": "B Lot@Vet Mewdical Center",
+    "Name": "B Lot @ Vet Medical Center",
     "Latitude": 42.44597697891736,
     "Longitude": -76.4647502192776
   },
@@ -125,14 +125,14 @@
     "Longitude": -76.497213
   },
   {
+    "Name": "Bradfield Across the Street",
+    "Latitude": 42.447436,
+    "Longitude": -76.476558
+  },
+  {
     "Name": "Bradfield Hall",
     "Latitude": 42.447717,
     "Longitude": -76.476583
-  },
-  {
-    "Name": "Bradfield Parking Lot",
-    "Latitude": 42.447436,
-    "Longitude": -76.476558
   },
   {
     "Name": "Brentwood Dr. @ Arrowood Dr.",
@@ -160,19 +160,19 @@
     "Longitude": -76.464565
   },
   {
-    "Name": "Buffalo @ Fulton",
+    "Name": "Buffalo @ Fulton (Greenstar backside)",
     "Latitude": 42.44024507785219,
     "Longitude": -76.51015971066283
+  },
+  {
+    "Name": "Buttermilk Falls @ Rt. 13",
+    "Latitude": 42.41730938366429,
+    "Longitude": -76.52391935513519
   },
   {
     "Name": "Buttermilk Falls SP – Lower Entrance",
     "Latitude": 42.41698964976771,
     "Longitude": -76.52213695514723
-  },
-  {
-    "Name": "Buttermilk Falls@ Route 13",
-    "Latitude": 42.41730938366429,
-    "Longitude": -76.52391935513519
   },
   {
     "Name": "Campbell @ Brookfield Rd.",
@@ -320,7 +320,7 @@
     "Longitude": -76.47869425729013
   },
   {
-    "Name": "Ciser Across Street",
+    "Name": "Ciser (Across Street)",
     "Latitude": 42.438508,
     "Longitude": -76.465254
   },
@@ -390,7 +390,7 @@
     "Longitude": -76.47929
   },
   {
-    "Name": "Court and Linn",
+    "Name": "Court @ Linn",
     "Latitude": 42.443103,
     "Longitude": -76.494408
   },
@@ -470,14 +470,14 @@
     "Longitude": -76.299609
   },
   {
-    "Name": "East Hill Office Building",
-    "Latitude": 42.43898621190429,
-    "Longitude": -76.46293785962538
-  },
-  {
     "Name": "East Hill Office Building Across Street",
     "Latitude": 42.43856033946333,
     "Longitude": -76.46340610017926
+  },
+  {
+    "Name": "East Hill Office Building Loop",
+    "Latitude": 42.43898621190429,
+    "Longitude": -76.46293785962538
   },
   {
     "Name": "East Hill Plaza",
@@ -570,7 +570,7 @@
     "Longitude": -76.44839
   },
   {
-    "Name": "EcoVillage/ Rt. 79",
+    "Name": "EcoVillage @ Rt. 79",
     "Latitude": 42.448119,
     "Longitude": -76.540139
   },
@@ -595,7 +595,7 @@
     "Longitude": -76.516223
   },
   {
-    "Name": "Enfield Center / Town Hall Park-n-Ride",
+    "Name": "Enfield Center / Park-n-Ride",
     "Latitude": 42.437817,
     "Longitude": -76.630967
   },
@@ -680,7 +680,7 @@
     "Longitude": -76.500828
   },
   {
-    "Name": "Goldwin Smith",
+    "Name": "Goldwin Smith Hall",
     "Latitude": 42.44810853085883,
     "Longitude": -76.4826729138908
   },
@@ -688,6 +688,11 @@
     "Name": "Graham @ Triphammer Rd.",
     "Latitude": 42.486277,
     "Longitude": -76.486945
+  },
+  {
+    "Name": "Green @ Commons",
+    "Latitude": 42.43854679840278,
+    "Longitude": -76.49847330363697
   },
   {
     "Name": "Green @ Fayette",
@@ -698,11 +703,6 @@
     "Name": "Green @ Meadow",
     "Latitude": 42.43821014016793,
     "Longitude": -76.50825544610834
-  },
-  {
-    "Name": "Green St. - Commons",
-    "Latitude": 42.43854679840278,
-    "Longitude": -76.49847330363697
   },
   {
     "Name": "Greenstar",
@@ -720,14 +720,14 @@
     "Longitude": -76.369314
   },
   {
+    "Name": "Groton Main Street",
+    "Latitude": 42.586483,
+    "Longitude": -76.36631
+  },
+  {
     "Name": "Groton Rd. @ Peruville Rd.",
     "Latitude": 42.54814,
     "Longitude": -76.361536
-  },
-  {
-    "Name": "Groton Village - Main Street",
-    "Latitude": 42.586483,
-    "Longitude": -76.36631
   },
   {
     "Name": "Groton Village - Town Hall",
@@ -840,7 +840,7 @@
     "Longitude": -76.51705
   },
   {
-    "Name": "Helen Newman - North Campus",
+    "Name": "Helen Newman",
     "Latitude": 42.45320732859564,
     "Longitude": -76.47692270789457
   },
@@ -950,7 +950,7 @@
     "Longitude": -76.492032
   },
   {
-    "Name": "IC - Circle @ Main Entrance (Towards Tow",
+    "Name": "IC - Circle @ Main Entrance",
     "Latitude": 42.421811,
     "Longitude": -76.499667
   },
@@ -995,7 +995,7 @@
     "Longitude": -76.496676
   },
   {
-    "Name": "IC - The Towers - Ithaca College",
+    "Name": "IC - The Towers @ Ithaca College",
     "Latitude": 42.420368,
     "Longitude": -76.494488
   },
@@ -1015,11 +1015,6 @@
     "Longitude": -76.51105
   },
   {
-    "Name": "Ithaca High School / Lake Street",
-    "Latitude": 42.455117,
-    "Longitude": -76.49595
-  },
-  {
     "Name": "Ithaca High School/Cayuga Street",
     "Latitude": 42.45526511857616,
     "Longitude": -76.50019450421924
@@ -1030,7 +1025,7 @@
     "Longitude": -76.506761
   },
   {
-    "Name": "Ithaca Rd @ Elmwood Ave.",
+    "Name": "Ithaca Rd. @ Elmwood Ave.",
     "Latitude": 42.4395102367634,
     "Longitude": -76.47853447447534
   },
@@ -1051,23 +1046,23 @@
   },
   {
     "Name": "Jessup @ Pleasant Grove",
-    "Latitude": 42.45675274557034,
-    "Longitude": -76.47443552167225
-  },
-  {
-    "Name": "Jessup @ Pleasant Grove",
     "Latitude": 42.456783,
     "Longitude": -76.474467
   },
   {
-    "Name": "Jessup Place @ Tennis Courts",
-    "Latitude": 42.456982,
-    "Longitude": -76.47844
+    "Name": "Jessup @ Pleasant Grove",
+    "Latitude": 42.45675274557034,
+    "Longitude": -76.47443552167225
   },
   {
     "Name": "Jessup Rd. @ Jessup Place",
     "Latitude": 42.45687860636266,
     "Longitude": -76.47731160022425
+  },
+  {
+    "Name": "Jessup Rd. @ Tennis Courts",
+    "Latitude": 42.456982,
+    "Longitude": -76.47844
   },
   {
     "Name": "Joanne Dr. @ Regency Ln.",
@@ -1095,9 +1090,14 @@
     "Longitude": -76.479291
   },
   {
-    "Name": "Kohl's / Home Depot @ Elmira Rd.",
+    "Name": "Kohls / Home Depot @ Elmira Rd.",
     "Latitude": 42.419794,
     "Longitude": -76.520078
+  },
+  {
+    "Name": "Lake @ Ithaca HS",
+    "Latitude": 42.455117,
+    "Longitude": -76.49595
   },
   {
     "Name": "Lake/East Shore Dr. @ Boynton MS",
@@ -1120,7 +1120,7 @@
     "Longitude": -76.590083
   },
   {
-    "Name": "Lansing High School",
+    "Name": "Lansing HS",
     "Latitude": 42.542383,
     "Longitude": -76.537033
   },
@@ -1155,7 +1155,7 @@
     "Longitude": -76.49909940739207
   },
   {
-    "Name": "Linderman Creek Apts",
+    "Name": "Linderman Creek Apts.",
     "Latitude": 42.449307,
     "Longitude": -76.530451
   },
@@ -1195,6 +1195,11 @@
     "Longitude": -76.50876392512164
   },
   {
+    "Name": "Meadow @ Tops gas station",
+    "Latitude": 42.432292,
+    "Longitude": -76.508188
+  },
+  {
     "Name": "Meadow @ Wood St.",
     "Latitude": 42.432514,
     "Longitude": -76.507893
@@ -1215,12 +1220,12 @@
     "Longitude": -76.53735
   },
   {
-    "Name": "N.Lansing Fire Co. #4",
+    "Name": "N. Lansing Fire Co. #4",
     "Latitude": 42.612975,
     "Longitude": -76.497034
   },
   {
-    "Name": "Nates Floral Estates",
+    "Name": "Nates Floral Estates @ Lowes",
     "Latitude": 42.43258946387594,
     "Longitude": -76.51049505177728
   },
@@ -1235,7 +1240,12 @@
     "Longitude": -76.552317
   },
   {
-    "Name": "Newfield Main St. @ Elmira Rd.",
+    "Name": "Newfield Depot Rd. @ Valley Manor",
+    "Latitude": 42.36806428965098,
+    "Longitude": -76.55699915677559
+  },
+  {
+    "Name": "Newfield Main St @ Elmira Rd.",
     "Latitude": 42.3513412912905,
     "Longitude": -76.60438966444868
   },
@@ -1405,17 +1415,12 @@
     "Longitude": -76.328362
   },
   {
-    "Name": "Route 13 @ Irish Settlement Rd",
+    "Name": "Rt. 13 @ Irish Settlement",
     "Latitude": 42.489669,
     "Longitude": -76.327995
   },
   {
-    "Name": "Route 13 @ Johnson Rd",
-    "Latitude": 42.48715,
-    "Longitude": -76.343217
-  },
-  {
-    "Name": "Route 13 @ Yellowbarn Rd",
+    "Name": "Rt. 13 @ Johnson",
     "Latitude": 42.48715,
     "Longitude": -76.343217
   },
@@ -1428,6 +1433,11 @@
     "Name": "Rt. 13 @ Mineah Rd.",
     "Latitude": 42.480516,
     "Longitude": -76.373874
+  },
+  {
+    "Name": "Rt. 13 @ Yellowbarn",
+    "Latitude": 42.48715,
+    "Longitude": -76.343217
   },
   {
     "Name": "Rt. 34B (Auburn Rd.) @ Woodsedge Dr.",
@@ -1620,7 +1630,7 @@
     "Longitude": -76.491805
   },
   {
-    "Name": "Spencer Road @ Meadow St.",
+    "Name": "Spencer Rd. @ Meadow St.",
     "Latitude": 42.42577552487312,
     "Longitude": -76.50772333798452
   },
@@ -1685,7 +1695,7 @@
     "Longitude": -76.489799
   },
   {
-    "Name": "Stewart @ University Ave.",
+    "Name": "Stewart @ University",
     "Latitude": 42.448963,
     "Longitude": -76.490156
   },
@@ -1705,7 +1715,7 @@
     "Longitude": -76.50045
   },
   {
-    "Name": "Sunny's @ Rt. 34/96",
+    "Name": "Sunnys @ Rt. 34/96",
     "Latitude": 42.38532045863057,
     "Longitude": -76.55215741098374
   },
@@ -1720,7 +1730,7 @@
     "Longitude": -76.51866
   },
   {
-    "Name": "TC3 - Tompkins/Cortland Community Coll.",
+    "Name": "TC3",
     "Latitude": 42.5028,
     "Longitude": -76.288417
   },
@@ -1785,12 +1795,17 @@
     "Longitude": -76.486473
   },
   {
+    "Name": "Thurston @ Ridgewood",
+    "Latitude": 42.454267,
+    "Longitude": -76.488867
+  },
+  {
     "Name": "Thurston @ Stewart",
     "Latitude": 42.454667,
     "Longitude": -76.490547
   },
   {
-    "Name": "Thurston @ Wait",
+    "Name": "Thurston @ Waite",
     "Latitude": 42.4536723703661,
     "Longitude": -76.48541459456794
   },
@@ -1800,12 +1815,7 @@
     "Longitude": -76.483684
   },
   {
-    "Name": "Thurston Ave. @ Ridgewood Rd.",
-    "Latitude": 42.454267,
-    "Longitude": -76.488867
-  },
-  {
-    "Name": "Tioga @ Court Street",
+    "Name": "Tioga @ Court St.",
     "Latitude": 42.4425,
     "Longitude": -76.4969
   },
@@ -1825,12 +1835,12 @@
     "Longitude": -76.481023
   },
   {
-    "Name": "Tobin Field House - Across the Street",
+    "Name": "Tobin Field House-Across the street",
     "Latitude": 42.45636250157106,
     "Longitude": -76.48066083795052
   },
   {
-    "Name": "Tompkins @ Cayuga Sts",
+    "Name": "Tompkins @ Cayuga",
     "Latitude": 42.448433,
     "Longitude": -76.499433
   },
@@ -1895,12 +1905,17 @@
     "Longitude": -76.48198
   },
   {
+    "Name": "Triphammer @ Sheraton",
+    "Latitude": 42.478167,
+    "Longitude": -76.481967
+  },
+  {
     "Name": "Triphammer @ Tompkins Trust Co.",
     "Latitude": 42.478817,
     "Longitude": -76.482246
   },
   {
-    "Name": "Triphammer @ Upland Rd.",
+    "Name": "Triphammer @ Upland",
     "Latitude": 42.46429493172895,
     "Longitude": -76.48402742470519
   },
@@ -1908,11 +1923,6 @@
     "Name": "Triphammer @ Wait",
     "Latitude": 42.45473532536624,
     "Longitude": -76.48124295763095
-  },
-  {
-    "Name": "Triphammer Rd. @ Sheraton Dr.",
-    "Latitude": 42.478167,
-    "Longitude": -76.481967
   },
   {
     "Name": "Trumansburg - W. Main @ Washington",
@@ -1985,7 +1995,7 @@
     "Longitude": -76.468803
   },
   {
-    "Name": "Uptown Village Apts",
+    "Name": "Uptown Village Apts.",
     "Latitude": 42.478491,
     "Longitude": -76.472665
   },
@@ -2000,17 +2010,12 @@
     "Longitude": -76.48182579458917
   },
   {
-    "Name": "Valley Manor/ Depot Rd",
-    "Latitude": 42.36806428965098,
-    "Longitude": -76.55699915677559
-  },
-  {
     "Name": "Valley Rd. @ Boiceville Rd.",
     "Latitude": 42.38483758442052,
     "Longitude": -76.36000938021363
   },
   {
-    "Name": "Varna (shelter)",
+    "Name": "Varna (Shelter)",
     "Latitude": 42.454283,
     "Longitude": -76.440733
   },
@@ -2035,14 +2040,14 @@
     "Longitude": -76.481216
   },
   {
-    "Name": "Wait @ Thurston",
-    "Latitude": 42.45408063474326,
-    "Longitude": -76.48433673590142
-  },
-  {
     "Name": "Wait @ Triphammer",
     "Latitude": 42.45466219443673,
     "Longitude": -76.48220234330067
+  },
+  {
+    "Name": "Wait Ave. @ Thurston Ave.",
+    "Latitude": 42.45408063474326,
+    "Longitude": -76.48433673590142
   },
   {
     "Name": "Wal*Mart",
@@ -2050,7 +2055,7 @@
     "Longitude": -76.51196830104125
   },
   {
-    "Name": "Warren Pl @ Cliff Park",
+    "Name": "Warren Pl. @ Cliff Park",
     "Latitude": 42.441998,
     "Longitude": -76.524185
   },
@@ -2095,6 +2100,11 @@
     "Longitude": -76.471581
   },
   {
+    "Name": "Warren Rd. @ Farrell",
+    "Latitude": 42.514467,
+    "Longitude": -76.472
+  },
+  {
     "Name": "Warren Rd. @ Northwoods Dr.",
     "Latitude": 42.486372,
     "Longitude": -76.467719
@@ -2115,11 +2125,6 @@
     "Longitude": -76.464833
   },
   {
-    "Name": "Warren Rd/ Farrell Rd",
-    "Latitude": 42.514467,
-    "Longitude": -76.472
-  },
-  {
     "Name": "Warrenwood Apts.",
     "Latitude": 42.477045,
     "Longitude": -76.467089
@@ -2135,7 +2140,7 @@
     "Longitude": -76.5225
   },
   {
-    "Name": "Winston Court",
+    "Name": "Winston Ct.",
     "Latitude": 42.475633,
     "Longitude": -76.45755
   },
